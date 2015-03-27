@@ -1,7 +1,7 @@
 # Contribution Instructions
 
 ## 1. Fork the repository
-1. Open in a new tab https://github.com/janmaghuyop/dev-env
+1. Open in a new tab https://github.com/janmaghuyop/sample-repo
 2. In the top-right corner of the page, click Fork button.
 
 ## 2. Clone the forked repository
@@ -10,14 +10,14 @@
 3. Open the terminal, copy and paste the command(s) below and hit enter.
 ```
 cd ~/Downloads
-git clone git@github.com:username/dev-env.git
-cd dev-env
+git clone git@github.com:username/sample-repo.git
+cd sample-repo
 ```
 
 ## 3. Set upstream URL
 Open the terminal, copy and paste the command(s) below and hit enter.
 ```
-git remote add upstream git@github.com:janmaghuyop/dev-env.git
+git remote add upstream git@github.com:janmaghuyop/sample-repo.git
 ```
 
 ## 4. Create a feature branch
