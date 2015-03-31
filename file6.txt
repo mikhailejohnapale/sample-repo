@@ -1,1 +1,2 @@
+Before first line ..this is a sample activity
 This is file 6
