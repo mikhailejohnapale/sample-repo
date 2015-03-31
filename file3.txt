@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a file3.txt
+=======
+This is file3.txt
+>>>>>>> 155e80269899616e61ed7fd2b2868754cacf07b8
