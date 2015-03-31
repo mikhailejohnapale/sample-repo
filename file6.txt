@@ -1,3 +1,4 @@
 Before first line ..this is a sample activity
+After before first line
 This is file 6
 This is the last line
