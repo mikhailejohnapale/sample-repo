@@ -3,4 +3,5 @@ After before first line
 bisan unsa
 This is file 6
 This is before the last line
+This is the second to the last line
 This is the last line
